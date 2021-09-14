@@ -1,5 +1,5 @@
 # Using Terraform to Provision AWS Infrastructure
-
+## Part 1
 1. AWS as the cloud provider
 2. Use an existing VPC ID
 3. Use an existing public subnet
