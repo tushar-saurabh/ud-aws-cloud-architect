@@ -11,7 +11,7 @@ data "archive_file" "lambda" {
   output_path = "lambda.zip"
 }
 
-# Referenced from official documentation
+# Referenced from official documentation and youtube (https://youtu.be/Lkm3v7UDlD8)
 data "aws_iam_policy_document" "policy" {
   statement {
     sid    = ""
